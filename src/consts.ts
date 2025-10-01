@@ -25,8 +25,16 @@ export const PROJECTS: Metadata = {
 
 export const SOCIALS: Socials = [
   {
+    NAME: "book a meeting",
+    HREF: "https://mynte.studio",
+  },
+  {
     NAME: "twitter-x",
     HREF: "https://twitter.com/myntestudio",
+  },
+  {
+    NAME: "instagram",
+    HREF: "https://instagram.com/mynte.studio",
   },
   {
     NAME: "github",
